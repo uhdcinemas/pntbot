@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "charged-garden-334110",
+  "private_key_id": "66b274c0f07ea4665bedce10308c1eedba1ec18d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCIJJt4dqTWnFEP\n5Ziux512joaLe/VCME5idk2lZH+/Eph5FvUEOraejltJplVIV7stFPjSgdlV6E3o\nZpfnvUd0TuVjsEjuUHGf9iQO1V5Ri5OK9zOa7R2kZdv0zDhAmOrSg09H/mlVwmj2\nUU8xNWGVKvMHfvSg9H8cVXDP6bxNURx7MIaLdNJYnOjqjBugIkVkB/e8D9TvCEOx\nKYFO9xpwoQcMBYVvoWklmWEu0zmnggSqESebSaNzfIWE3EjBPePDE7TtybhxK2jA\n2OOLMPt+DgT3Xu916hr/TPTgaiu8SolVDfQILzjhaotcpTGbbYzLvzCWYnlPBZ8S\noxiLSykhAgMBAAECggEABZ6FMD6tZRJEokRWvfgNPsR5Ny6hm97EjXnWkJoKT8ej\ntXPGHyuROBAmIm8UHA1K83xnHMExSENzW8FISc9dMKbE/w1apUN6vSB6soYKA5Gg\nQF8dqSpaS9vMbVk0hS4Kmy/CSPVuQZTpoikO/Lf4VCDWsRuDW1VcHb5FDr/V/tbn\nzGQXOnMNRUKK69a7FNiyjjb8gg0B+yhuqYYTeb24DWfPw8ruBoy1tPCG9o8SfhuH\niGJUXOYjlOaUmd21gRQVs9CEt+QbAS2TL0EeFXQIXeaFZF+/uiN6irSNGhYya4po\ntgeHAjUfzClitHPPRUiuZKVQ4L3PUfyZMYpiZwmRxQKBgQC/t67N8WB7hv6/zUiP\nW25KMY2WFcJP1St8kAl7g/bhSai8thOmrAkWWAu295sGoJ8l5BzSwWwvvmlZqC7h\ntS/vBGQQ/3xBxGCSiOQ+jTAhqvM7qP1GMO8TLi5a+Mu8oqWuh06F/DNywhQJdxd0\na6w70tQA9j9Lll1Co4tCdVkUpwKBgQC1yp18jJ025VINoftAN9pd6h9FEKD9LtVR\nfyB+8uucgxEqGeCpuHPc6k05fel0T6l1QiJx4j2PbtZFRx4VTHLElTaLwk/W5YVu\ngoDGD+ERqxUsyEOOZwgGwiheCD3CUCwqWqS86Bo/VCEksStXD8WC0QIiRqNQkWPT\nMYXQFWFk9wKBgEmoLY3MDfCHpfpUyWriitYQgcBG7de0I7gAstP0mHZn0V9naNdh\nQ0CFZULPkI0USvDI2lYSoBkbw+gBWLm43girnDJ3peqyoxPJaj+qCPL2derW+y/r\nfv7UgFTNP6Fir9sE+yM5CR8u93nHeohtEcgOMQuJkDnfNEd1A/ztjuMDAoGAPbdI\nmeT+5okZvykTrCyKBMIb1Y2cqfeBUgaPmKmNlXfllt5sKBJHu2MLzo3ReLwmsnk+\nSl1dOtmNAr3vF5n5iIWDnBTel/0ZvHevkg4IAcCMEsT2Ml0GG41EuQ+hL9uZ8tMN\nBFjjuEYubk97gDYJfqzIRaynew2wzx0L6aWoh+cCgYBfTgXgDc6J7TjoZqQdkC+2\nK/apKtd5r18m8OkcbPtJtvR82lsDVMjNT0OTr96xGPxihUz4q2I3FxAmxOyq0Pff\nG+aSReYBFWrCgBqq0/3swIxSo+0NryEG89IQ8xws4DJUItzD5bGdVb3zTLfq2bDv\n2ykbSp572w0eIqD1b4G8HQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-776ls8gikxj35ge4p5fkidq4bx@charged-garden-334110.iam.gserviceaccount.com",
+  "client_id": "117589972744825135947",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-776ls8gikxj35ge4p5fkidq4bx%40charged-garden-334110.iam.gserviceaccount.com"
+}
